@@ -1,6 +1,6 @@
 # 🚀 MEME Coin Analyzer
 
-A beautiful, modern web application for analyzing MEME cryptocurrency data with real-time price tracking, market metrics, and technical indicators. Built with Streamlit and featuring a stunning animated galactic theme.
+A beautiful, modern web application for analyzing MEME cryptocurrency data with real-time price tracking, market metrics, and technical indicators. Built on Flask using Python.
 
 ![MEME Coin Analyzer](https://img.shields.io/badge/Status-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.38+-red)
 
