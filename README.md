@@ -4,7 +4,7 @@ Visit the live demo: [MEME Coin Analyzer](https://memecoinanalyser.streamlit.app
 
 A beautiful, modern web application for analyzing MEME cryptocurrency data with real-time price tracking, market metrics, and technical indicators. Built on Flask using Python.
 
-![MEME Coin Analyzer](https://img.shields.io/badge/Status-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![FLASK](https://img.shields.io/badge/Flask)
+![MEME Coin Analyzer](https://img.shields.io/badge/Status-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![FLASK](https://img.shields.io/badge/Flask_Python-green)
 
 ## ✨ Features
 
