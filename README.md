@@ -7,7 +7,7 @@ A beautiful, modern web application for analyzing MEME cryptocurrency data with 
 ## ✨ Features
 
 - **Real-time MEME coin data** from DEXscreener API
-- **Beautiful animated gradient background** with galactic theme
+- **Beautiful Dark theme
 - **Mobile-responsive design** that works on all devices
 - **Multiple coin comparison** in a clean table format
 - **Technical indicators** including MACD, RSI, and Bollinger Bands
