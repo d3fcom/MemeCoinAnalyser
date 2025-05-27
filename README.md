@@ -1,4 +1,6 @@
-# 🚀 MEME Coin Analyzer
+# 🚀Open Source,  MEME Coin Analyzer 
+
+Visit the live demo: [MEME Coin Analyzer](https://memecoinanalyser.streamlit.app/)
 
 A beautiful, modern web application for analyzing MEME cryptocurrency data with real-time price tracking, market metrics, and technical indicators. Built on Flask using Python.
 
@@ -26,7 +28,7 @@ A beautiful, modern web application for analyzing MEME cryptocurrency data with 
 ## 🚀 Quick Start
 
 ### Option 1: Try it Online
-Visit the live demo: [MEME Coin Analyzer](https://your-streamlit-app-url.streamlit.app)
+Visit the live demo: [MEME Coin Analyzer](https://memecoinanalyser.streamlit.app/)
 
 ### Option 2: Run Locally
 
@@ -38,7 +40,7 @@ Visit the live demo: [MEME Coin Analyzer](https://your-streamlit-app-url.streaml
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/memecoinanalyzer.git
+   git clone https://github.com/d3fcom/MemeCoinAnalyser
    cd memecoinanalyzer
    ```
 
@@ -53,7 +55,7 @@ Visit the live demo: [MEME Coin Analyzer](https://your-streamlit-app-url.streaml
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:8501` to view the app
+    Navigate to `http://localhost:` (+ port number "if needed ") to view the app
 
 ## 📋 Requirements
 
@@ -75,10 +77,9 @@ ta>=0.11.0
 
 ### Example Input
 ```
-PEPE
+PEPE COIN
 0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE
-DOGE
-SHIB
+
 ```
 
 ## 🛠️ Built With
@@ -88,15 +89,6 @@ SHIB
 - **[Pandas](https://pandas.pydata.org/)** - Data manipulation and analysis
 - **[TA-Lib](https://github.com/bukosabino/ta)** - Technical analysis indicators
 - **[DEXscreener API](https://docs.dexscreener.com/)** - Real-time cryptocurrency data
-
-## 🎨 Design Features
-
-- **Animated gradient background** with shifting galactic colors
-- **Floating star effects** for immersive experience
-- **Glassmorphism UI elements** with backdrop blur effects
-- **Responsive design** optimized for mobile and desktop
-- **Custom Inter font** for modern typography
-- **Gradient text effects** and glowing animations
 
 ## 🚀 Deployment
 
@@ -110,7 +102,7 @@ This app can be deployed on:
 - Heroku
 - Railway
 - Vercel
-- Any platform supporting Python/Streamlit apps
+- Any platform supporting Python apps
 
 ## 🤝 Contributing
 
